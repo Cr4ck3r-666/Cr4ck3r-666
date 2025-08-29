@@ -7,7 +7,7 @@ WELCOME TO MY GITHUB
 </a>
 <!-- markdownlint-enable MD033 -->
 
-![skills](https://skillicons.dev/icons?i=html,css,md,git,cpp,bash,vscode&theme=dark,linux)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,cmake,bash,linux,vscode,vscodium,git,github)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=Cr4ck3r-666&color=blueviolet&style=for-the-badge)
 
