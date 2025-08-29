@@ -7,12 +7,25 @@ WELCOME TO MY GITHUB
 </a>
 <!-- markdownlint-enable MD033 -->
 
-WHAT YOU CAN FIND HERE?
---------------------------
+![](https://skillicons.dev/icons?i=html,css,md,git,cpp,bash,vscode&theme=dark,linux)
 
+![](https://stars.github.com/nominate)
+
+![](https://komarev.com/ghpvc/?username=Cr4ck3r-666&color=blueviolet&style=for-the-badge)
 
 
 ABOUT ME
 --------------------------
-MY SKILLS:
-![skills](https://skillicons.dev/icons?i=html,css,md,git,cpp,bash,vscode&theme=dark,linux)
+I'm relativity young autodidact from Poland intrested by programing ,networking ,cybersecurity ,electronic 
+and many other thinks. I'm not specialist but i'm learning all of my free time. So you propably have a 
+question why i'm making this github acount? At first time i was decide to publicating my own project but 
+you know ,once day have only 24 hours and i don't have many times for my projects. But hey ,We can finally 
+create them together haha
+
+WHAT YOU CAN FIND HERE?
+--------------------------
+
+- bugs
+- ants
+- dinosaurs
+- and only some code
